@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Artificial Intelligence And Data Science
 - 💞️ I’m looking to collaborate on any project related to Ai and/or Ds 
 - 📫 Reach me at tarunchahal1999@gmail.com
-- 😄 Pronouns: Man
 
 <!---
 tarunchahall/tarunchahall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
